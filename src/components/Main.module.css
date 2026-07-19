@@ -1,0 +1,15 @@
+.circle{
+    background-color: #E4C0A4;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    margin: 2rem auto;
+}
+.circleText{
+    color:#050505;
+
+}
